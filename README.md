@@ -1,4 +1,5 @@
 # dnsIptables
+DNS controlled dynamic firewall (iptables input chain)
 
 ## add domain,proto,listenport to config.txt like
 ```
