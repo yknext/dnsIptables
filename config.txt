@@ -1,0 +1,2 @@
+www.facebook.com#tcp#80,443
+www.google.com#tcp#443
