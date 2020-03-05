@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "dynamic-iptables": "^0.1.3"
+  }
+}
